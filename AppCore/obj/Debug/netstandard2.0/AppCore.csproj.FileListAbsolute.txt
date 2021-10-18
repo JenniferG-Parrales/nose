@@ -1,0 +1,5 @@
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\AppCore\obj\Debug\netstandard2.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\AppCore\obj\Debug\netstandard2.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\AppCore\obj\Debug\netstandard2.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\AppCore\obj\Debug\netstandard2.0\AppCore.AssemblyInfo.cs
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\AppCore\obj\Debug\netstandard2.0\AppCore.csproj.CoreCompileInputs.cache

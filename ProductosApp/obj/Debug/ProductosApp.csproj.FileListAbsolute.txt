@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\ProductosApp\obj\Debug\ProductosApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\ProductosApp\obj\Debug\ProductosApp.Formularios.FrmGestionEmpleados.resources
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\ProductosApp\obj\Debug\ProductosApp.Formularios.FrmProducto.resources
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\ProductosApp\obj\Debug\ProductosApp.Formularios.FrmProductos.resources
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\ProductosApp\obj\Debug\ProductosApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\ProductosApp\obj\Debug\ProductosApp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TareaProducto-master\TareaProducto-master\TareaProducto-master\ProductosApp\obj\Debug\ProductosApp.csproj.CoreCompileInputs.cache
