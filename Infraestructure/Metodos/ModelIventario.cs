@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Infraestructure.Inventario
 {
-    public abstract class ModelIventario
+    public class ModelIventario
     {
         protected Registro[] inventario;
 
@@ -75,7 +75,7 @@ namespace Infraestructure.Inventario
         public decimal CalcularSaldo()
         {
             decimal totalEntradas = 0, totalSalidas = 0;
-            CalcularValores();
+       
             Registro[] entradas, salidas;
             (entradas, salidas) = GetEntradasSalidas();
 
@@ -111,6 +111,6 @@ namespace Infraestructure.Inventario
             return totalEntradas - totalSalidas;
         }
 
-        public abstract void CalcularValores();
+        
     }
 }

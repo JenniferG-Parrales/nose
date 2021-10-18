@@ -11,7 +11,7 @@ namespace Domain.Entities.Inventario
             public int Existencia { get; set; }
             public decimal ValorUnidad { get; set; }
             public decimal ValorTotal { get; set; }
-            public EspecieCuenta Especie { get; set; }
+            public CuentaE Especie { get; set; }
 
         }
     }

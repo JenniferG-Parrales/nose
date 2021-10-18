@@ -1,18 +1,19 @@
-﻿using Domain.Entities.Invetory;
+﻿
+using Domain.Entities.Inventario;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Infraestructure.Inventario
 {
-    public class PromedioSimple : InventarioModel
+    public class PromedioSimple : ModelIventario
     {
 
-        public override void CalcularValores()
+        public  void CalcularValores()
         {
             OrdenarPorFecha(inventario, inventario.Length);
 
-            Registros[] entradas, salidas;
+            Registro[] entradas, salidas;
             (entradas, salidas) = GetEntradasSalidas();
 
             for (int i = 0; i < salidas.Length; i++)

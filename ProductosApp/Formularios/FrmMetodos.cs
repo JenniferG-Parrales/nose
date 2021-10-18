@@ -16,5 +16,11 @@ namespace ProductosApp.Formularios
         {
             InitializeComponent();
         }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            FrmAñadirInventario f2 = new FrmAñadirInventario();
+            f2.ShowDialog();
+        }
     }
 }

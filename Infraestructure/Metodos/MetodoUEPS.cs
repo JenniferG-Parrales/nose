@@ -7,7 +7,7 @@ namespace Infraestructure.Inventario
 {
     public class MetodoUEPS : ModelIventario
     {
-        public override void CalcularValores()
+        public void CalcularValores()
         {
             OrdenarPorFecha(inventario, inventario.Length);
 
